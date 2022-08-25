@@ -16,30 +16,10 @@
 <li>An employee can register, only admin can make an employee an admin</li></ul>
 <h2>Admin Credentials</h2>
 <ul>
-  <li>E-Mail : kk@gmail.com</li>
+  <li>E-Mail : yogi@gmail.com</li>
   <li>Password: 1</li>
   <li>For employee you can create by using signup feature</li>
 </ul>
-<h2> SignIn</h2>
-</br>
-<img src="./assets/img/login.png"></br>
-<h2> SignUP</h2>
-</br>
-<img src="./assets/img/signup.png"></br>
-<h2> Admin Views </h2>
-</br>
-<p>ADMIN HOMEPAGE</p>
-<img src="./assets/img/adminhome.png">
-</br>
-<p>ASSIGNTASK</p>
-<img src="./assets/img/assign.png">
-</br>
-<p>EMOPLYEE-DASHBAORD</p>
-<img src="./assets/img/empdashboard.png">
-</br>
-<h2> Employee Views </h2>
-</br>
-<img src="./assets/img/emphome.png">
 
 ### Technologies Stack:
 

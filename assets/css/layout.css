@@ -1,0 +1,16 @@
+/* GLOBAL PROPERTIES */
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+body{
+    min-height: 100vh;
+    background-color: #7500e9;
+    background-image: linear-gradient(160deg, #00e946 0%, #bbda0a 100%);
+   
+}
